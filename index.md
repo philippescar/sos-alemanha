@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao SOS Alemanha - Perguntas Frequentes
 
-You can use the [editor on GitHub](https://github.com/philippescar/sos-alemanha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A idéia dessa página é servir de FAQ para qualquer pessoa que tenha duvidas sobre a Alemanha.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Se você ou alguém que você conheça precise tirar dúvias sobre o dia-a-dia (carteira de motorista, marca de produtos de limpeza ou qualquer outra coisa) entre no nosso groupo do [Whatsapp](https://chat.whatsapp.com/G32CzWanEkyCvvfkf4ix2U).
 
-### Markdown
+### Por onde começar?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Caso você esteja se preparando pra mudar clique [aqui](./artigos/mudanca_alemanha.md)
+ - Caso você tenha acabado de chegar clique [aqui](./artigos/chegando_na_alemanha.md)
+ - Caso você esteja saindo da Alemanha clique [aqui](./artigos/saindo_da_alemanha.md)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philippescar/sos-alemanha/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
