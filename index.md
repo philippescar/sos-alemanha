@@ -1,4 +1,4 @@
-## Bem-vindo ao SOS Alemanha - Perguntas Frequentes
+##Sejam Bem-vindos!!
 
 A idéia dessa página é servir de FAQ para qualquer pessoa que tenha duvidas sobre a Alemanha.
 

@@ -1,3 +1,11 @@
 theme: jekyll-theme-slate
 title: SOS Alemanha FAQs
 description: Artigos pra perguntas frequentes sobre a vida na Alemanha
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
