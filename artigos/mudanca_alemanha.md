@@ -17,7 +17,7 @@ Você pode dirigir com sua CNH brasileira por 6 meses na Alemanha, isso é útil
 
 **2.** Traduza todos os seus documentos importantes e faça o apostilamento.
 
-Documentos Brasileiros são válidos na Alemanha se forem traduzidores pro Alemão e apostilados, para fazer a apostilagem você pode procurar a lista de tradutores certificados na Embaixada Alemã do seu Estado, seguem abaixo os sites das principais embaixas Alemãs no Brasil:
+Documentos Brasileiros são válidos na Alemanha se forem traduzidos pro Alemão e apostilados, para fazer a apostilagem você pode procurar a lista de tradutores certificados na Embaixada Alemã do seu Estado, seguem abaixo os sites das principais embaixas Alemãs no Brasil:
 
 - [SP](https://brasil.diplo.de/br-pt/representacoes/saopaulo)
 - [RJ](https://brasil.diplo.de/br-pt/representacoes/rio)
