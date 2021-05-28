@@ -19,7 +19,7 @@ Famoso "Imposto Retido na Fonte", o valor a ser taxado depende da sua *SteuerKla
 
 | Tax Class |                                                                               Descrição                                                                               |
 | :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     I     |                                                   Trabalhadores que não se enquadram nas categorias II, III ou IV.                                                    | 42% |
+|     I     |                                                   Trabalhadores que não se enquadram nas categorias II, III ou IV.                                                    |
 |    II     |                                                   Pais solteiros que tem direito a pensão por serem pais solteiros.                                                   |
 |    III    | Trabalhadores Casados onde o conjugê não tem remuneração, ou onde o conjugê está classificado na categoria V. Pessoa viúvas durante o ano da morte de seus parceiros. |
 |    IV     |                                                  Casais casados se ambos os conjugês trabalham e moram na Alemanha.                                                   |
