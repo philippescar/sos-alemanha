@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 ## Sejam Bem-vindos!!
 
 A idéia dessa página é servir de FAQ para qualquer pessoa que tenha duvidas sobre a Alemanha.

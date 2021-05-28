@@ -1,4 +1,10 @@
-# Mudando pra Alemanha, o que você precisa saber?
+---
+layout: default
+title: Mudando para a Alemanha
+nav_order: 2
+---
+
+# Mudando para a Alemanha, o que você precisa saber?
 
 Você decidiu se mudar pra Alemanha, parabéns! Você iniciará uma vida de burocracias e idas ao correio pra enviar cartas. Para tornar sua vinda mais fácil existem algumas coisas que você pode e algumas que você **deve** fazer antes de sair do Brasil.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chegando na Alemanha
+nav_order: 3
+---
+
 ## Chegando na Alemanha
 
 Você acabou de sair do avião e precisa começar a lidar com as burocracias na Alemanha o checklist abaixo pode ser impresso ou copiado e tem uma lista de coisas pra fazer nos seus primeiros dias de Alemanha (teoricamente nas duas primeiras semanas).
