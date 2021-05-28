@@ -13,7 +13,7 @@ A idéia desde artigo é ter um checklist de coisas que você deve fazer no Bras
 
 **1.** Conseguir uma [PID](http://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/fichaservico/solicitacaoPID) (Permissão Internacional para Dirigir)
 
-Você pode dirigir com sua CNH brasileira por 6 meses na Alemanha, isso é útil porque você pode precisar alugar um carro para algumas coisas, e o processo de conversão da CNH Brasileira para a _Führerschein_ Alemã é um pouco complicada, veja mais [aqui](missing).
+Você pode dirigir com sua CNH brasileira por 6 meses na Alemanha, isso é útil porque você pode precisar alugar um carro para algumas coisas, e o processo de conversão da CNH Brasileira para a _Führerschein_ Alemã é um pouco complicada, veja mais [aqui](./../topicos/carteira_motorista_alemanha.md).
 
 **2.** Traduza todos os seus documentos importantes e faça o apostilamento.
 
@@ -29,7 +29,7 @@ Eu recomendo traduzir e apostilar _Diplomas_, _Certidão de Nascimento_ ou _Cert
 
 **3.** Faça a [_Comunicação de Saída Definitiva do Brasil_](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml)
 
-Caso você não pretenda manter seus investimentos no Brasil, ou caso você não tenha queira pagar imposto em 2 países é necessário informar a Receita Federal que você está saindo do país, uma vez que você faça a sua _Comunicação de Saíde Definitiva_, é necessário fazer a _Declaração de Saída Definitiva_, eu detalho isso mais [aqui](missing).
+Caso você não pretenda manter seus investimentos no Brasil, ou caso você não tenha queira pagar imposto em 2 países é necessário informar a Receita Federal que você está saindo do país, uma vez que você faça a sua _Comunicação de Saíde Definitiva_, é necessário fazer a _Declaração de Saída Definitiva_, eu detalho isso mais [aqui](./../topicos/saida_definitiva_brasil.md).
 
 **4.** Renove seus documentos
 
@@ -41,4 +41,4 @@ Muitas vezes você vai precisar de alguém para resolver algo pra você no seu b
 
 **6.** Faça um check-up médico
 
-Na Alemanha, você precisa do seu cartão do [_Seguro de Saúde_](missing) e de um médico de família pra fazer um check-up e achar um bom médico de família pode demorar um tempo, então faça um check-up no Brasil antes de se mudar.
+Na Alemanha, você precisa do seu cartão do [_Seguro de Saúde_](./../topicos/saude_na_alemanha.md) e de um médico de família pra fazer um check-up e achar um bom médico de família pode demorar um tempo, então faça um check-up no Brasil antes de se mudar.
