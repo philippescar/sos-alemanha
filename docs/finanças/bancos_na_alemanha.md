@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Abrindo um conta bancária na Alemanha
 parent: Finanças
 nav_order: 2
 ---
