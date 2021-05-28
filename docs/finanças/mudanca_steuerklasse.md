@@ -7,19 +7,25 @@ nav_order: 4
 
 # Alterando a categoria de imposto
 
+
 A categoria de imposto é o fator mais importante no cálculo do imposto e mudanças nessa categoria (*Steuerklasse*) influenciam bastante na diferença entre o valor bruto e líquido da sua fonte de renda. O site [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) possui uma descrição (clique no ícone de ajuda ao lado do campo Tax Category) com o requisitos para fazer parte de cada uma das categorias de imposto.
+
 
 Alguns dias/semanas após o primeiro registro de residência na Alemanha (feito no Bürgeramt), o Finanzamt será notificado e irá criar um Tax Id (um número que te identifica no "Departamento de Finanças" da Alemanha) e te enviar por correio, para o endereço em que você foi registrado. Durante a criação do Tax Id, o Finanzamt automaticamente te atribuirá para uma das categorias de imposto.
 
+
 O problema dessa atribuição "automática" de categoria de imposto costuma ser importante apenas para casais, aonde ambos são geralmente atribuídos a categoria de imposto IV. Caso apenas uma das pessoas do casal esteja trabalhando (ou se a diferença de renda entre os membros do casal for grande), vale a pena trocar a categoria de imposto de IV (de ambos os membros do casal) para III e V. A pessoa do casal que não recebe/recebe menos pode passar para a categoria V (e pagar mais imposto!) enquanto quem recebe o salário maior deverá passar para a categoria III (e pagar menos imposto!). Novamente, acesse o site  [http://www.parmentier.de/steuer/steuer.htm?wagetax.htm](http://www.parmentier.de/steuer/steuer.htm?wagetax.htm) para fazer simulações do valor pago de imposto em cada uma das categorias. Solteiros/divorciados são atribuídos automaticamente na categoria I e só podem trocar de classe caso tenham filhos.
 
+
 Enfim, para alterar a categoria de imposto o processo é o seguinte:
+
 
  - Obter o formulário *Steuerklassenwechsel* (download [aqui] para moradores de Berlin. (https://www.berlin.de/sen/finanzen/dokumentendownload/steuern/daten-und-fakten/lohn-und-einkommensteuer/antrag_auf_steuerklassenwechsel_f__r_eheleute.pdf)) OU pegue-o no Finanzamt do seu distrito)
  - Preencher e assinar o formulário (veja abaixo com preencher)
  - Entregar o formulário no Finanzamt
  - Esperar a troca ser efetuada (pode demorar até um mês)
  - Pronto! :)
+
 
 Diferentemente do registro de residência, para alterar a classe de imposto você provavelmente não precisará enfrentar filas, acordar cedo ou fazer um agendamento de horário online pelo site. Já fui 3 vezes em Finanzamts diferentes, e sempre fui atendido em poucos minutos.
 
