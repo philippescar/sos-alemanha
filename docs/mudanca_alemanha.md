@@ -29,7 +29,7 @@ Eu recomendo traduzir e apostilar _Diplomas_, _Certidão de Nascimento_ ou _Cert
 
 **3.** Faça a [_Comunicação de Saída Definitiva do Brasil_](http://www.csdp.receita.fazenda.gov.br/csdp/index.xhtml)
 
-Caso você não pretenda manter seus investimentos no Brasil, ou caso você não tenha queira pagar imposto em 2 países é necessário informar a Receita Federal que você está saindo do país, uma vez que você faça a sua _Comunicação de Saíde Definitiva_, é necessário fazer a _Declaração de Saída Definitiva_, eu detalho isso mais [aqui](./../topicos/saida_definitiva_brasil.md).
+Caso você não pretenda manter seus investimentos no Brasil, ou caso você não tenha queira pagar imposto em 2 países é necessário informar a Receita Federal que você está saindo do país, uma vez que você faça a sua _Comunicação de Saíde Definitiva_, é necessário fazer a _Declaração de Saída Definitiva_, eu detalho isso mais [aqui](./finanças/saida_definitiva_brasil.md).
 
 **4.** Renove seus documentos
 
@@ -41,4 +41,4 @@ Muitas vezes você vai precisar de alguém para resolver algo pra você no seu b
 
 **6.** Faça um check-up médico
 
-Na Alemanha, você precisa do seu cartão do [_Seguro de Saúde_](./../topicos/saude_na_alemanha.md) e de um médico de família pra fazer um check-up e achar um bom médico de família pode demorar um tempo, então faça um check-up no Brasil antes de se mudar.
+Na Alemanha, você precisa do seu cartão do [_Seguro de Saúde_](./saude/saude_na_alemanha.md) e de um médico de família pra fazer um check-up e achar um bom médico de família pode demorar um tempo, então faça um check-up no Brasil antes de se mudar.

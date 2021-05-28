@@ -19,7 +19,7 @@ Uma vez tendo dito isso é hora de falarmos como funciona o processo de abertura
 
 Bancos como Deutsche Bank ou o Sparkasse, são bancos físicos, ou seja, possuem agências espalhadas pela Alemanha. Para abrir uma conta em um banco físico é necessário um agendamento ou _termin_, você deve escolher uma agência, e em seguida agendar o dia da sua abertura de conta, se você não fala alemão é importante informar na hora de fazer o termin que o atendimento deve ser em inglês.
 
-No dia da abertura de conta é necessário levar consigo basicamente o seu [Anmeldung](./anmeldung.md) e o seu Passaporte.
+No dia da abertura de conta é necessário levar consigo basicamente o seu [Anmeldung](./../moradia/anmeldung.md) e o seu Passaporte.
 
 Vá a agência com tempo de sobra, porque em alguns casos a abertura de conta chega a demorar 1 hora, isso acontece principalmente em grandes centros, pois não são todos os gerentes que atendem em inglês.
 
