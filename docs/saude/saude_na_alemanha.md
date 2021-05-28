@@ -1,3 +1,9 @@
+---
+layout: default
+title: Saúde na Alemanha
+parent: Saúde
+nav_order: 2
+---
 ## Saúde na Alemanha: Como funciona?
 
 A verdade é que ninguém gosta de ficar doente, ou mesmo ir ao médico, mas conhecer o sistema de saúde é uma parte importante de se morar em outro país.

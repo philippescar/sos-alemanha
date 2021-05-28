@@ -1,3 +1,10 @@
+---
+layout: default
+title: Aluguel na Alemanha
+parent: Moradia
+nav_order: 2
+---
+
 ## Aluguel na Alemanha
 
 Alugar uma casa ou apartamento já é algo difícil, demanda tempo e atenção, fazer isso estando fora do país é ainda mais difícil.
