@@ -19,7 +19,7 @@ A idéia desde artigo é ter um checklist de coisas que você deve fazer no Bras
 
 **1.** Conseguir uma [PID](http://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/fichaservico/solicitacaoPID) (Permissão Internacional para Dirigir)
 
-Você pode dirigir com sua CNH brasileira por 6 meses na Alemanha, isso é útil porque você pode precisar alugar um carro para algumas coisas, e o processo de conversão da CNH Brasileira para a _Führerschein_ Alemã é um pouco complicada, veja mais [aqui](./../topicos/carteira_motorista_alemanha.md).
+Você pode dirigir com sua CNH brasileira por 6 meses na Alemanha, isso é útil porque você pode precisar alugar um carro para algumas coisas, e o processo de conversão da CNH Brasileira para a _Führerschein_ Alemã é um pouco complicada, veja mais [aqui](./transporte/carteira_motorista_alemanha.md).
 
 **2.** Traduza todos os seus documentos importantes e faça o apostilamento.
 
