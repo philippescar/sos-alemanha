@@ -29,3 +29,6 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+ga_tracking: UA-199571262-1
+ga_tracking_anonymize_ip: true
