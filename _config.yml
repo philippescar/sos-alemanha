@@ -30,5 +30,5 @@ search:
   # Supports true or false (default)
   button: false
 
-ga_tracking: UA-199571262-1
+ga_tracking: G-5TSJNHCE9H
 ga_tracking_anonymize_ip: true
