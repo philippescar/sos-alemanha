@@ -1,3 +1,10 @@
+---
+layout: default
+title: Imposto de Renda Brasil-Alemanha
+parent: Finanças
+nav_order: 1
+---
+
 # Conceitos Fiscais Brasil-Alemanha
 
 ## 📌 Residência Fiscal
